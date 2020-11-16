@@ -1,3 +1,3 @@
-# sourdist.github.io
+# sourdust.github.io
 
 personal site.
